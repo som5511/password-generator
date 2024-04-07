@@ -1,0 +1,1 @@
+#This is a project that generates random password given the constraints of the length of the password, special character, and numbers to be included or not. #The project is made using ReactJS and Tailwind CSS
